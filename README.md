@@ -1,2 +1,2 @@
 # Minesweeper-CSharp
-Minesweeper clone built in C# using Windows Forms
+Basic minesweeper game built in C# using Windows Forms
